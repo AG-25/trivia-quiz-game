@@ -1,7 +1,7 @@
 # Trivia Quiz Game
-This is a trivia quiz with a graphical user interface.
+This is a trivia quiz which extracts general knowledge questions from an API, provides the player with a graphical user interface, checks the players answers and keeps track of their score.
 
-## How the game works
+## How the Game Works
 1. Extracts true or false questions from the OpenTrivia API (URL provided below).  
 1. Serves questions to the player through a graphical user interface using a QuizInterface class, which utilises the tkinter module. 
 1. Checks answers and changes the question using a  QuizBrain class.   
@@ -14,4 +14,3 @@ This is a trivia quiz with a graphical user interface.
 
 ## Supporting Libraries and APIs
 * OpenTrivia API (for quiz questions): https://opentdb.com/
-
