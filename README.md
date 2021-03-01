@@ -1,5 +1,5 @@
 # Trivia Quiz Game
-This is a trivia quiz which extracts general knowledge questions from an API, provides the player with a graphical user interface, checks the players answers and keeps track of their score.
+This is a trivia quiz that extracts general knowledge questions from an API, provides the player with a graphical user interface, checks the players answers and keeps track of their score.
 
 ## How the Game Works
 1. Extracts true or false questions from the OpenTrivia API (URL provided below).  
